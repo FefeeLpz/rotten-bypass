@@ -4,7 +4,7 @@ import ButtonSkript from "../components/ui/buttonSkript"
 const showcase = () => {
   return (
     <div id="inicio" className="flex flex-col mt-11">
-       <h1 className="flex justify-center items-center text-white font-bold text-5xl mt-11 max-[500px]:flex-col">
+       <h1 className="flex justify-center items-center text-white font-bold text-5xl mt-11 max-[650px]:flex-col">
             Rotten
             <span className="text-purple-400 ml-2 mr-4">
                 Bypass
