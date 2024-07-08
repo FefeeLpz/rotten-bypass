@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={poppins.className}>                              
-      <div className="absolute top-0 bottom-0 z-[-2] h-full w-full bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-10%,rgba(175,66,255,0.3),rgba(255,255,255,0))]"></div>
+        <div className="absolute top-0 bottom-0 z-[-2] h-full w-full bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-10%,rgba(175,66,255,0.3),rgba(255,255,255,0))]"></div>
         {children}
         </body>
     </html>
