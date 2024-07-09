@@ -1,7 +1,7 @@
 
 const precios = () => {
   return (
-    <div className="flex flex-col justify-center items-center mt-11">
+    <div id="precios" className="flex flex-col justify-center items-center mt-11">
         <h2 className="text-white text-4xl font-bold text-center">
             <span className="text-purple-400 font-bold ml-1">Precios </span>
              de Rotten Bypass
