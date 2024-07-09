@@ -3,7 +3,6 @@ import Navbar from "@/components/navbar";
 import SectionContainer from "@/components/sectioncontainer";
 import Showcase from "@/components/showcase";
 import Precios from "@/components/precios";
-import Metodos from "@/components/metodos";
 import Contacto from "@/components/contacto";
 
 export default function Home() {
@@ -15,11 +14,8 @@ export default function Home() {
       <SectionContainer>
         <Showcase />
       </SectionContainer>
-      <SectionContainer>
+      <SectionContainer className="lg:max-w-7xl">
     	  <Precios />
-      </SectionContainer>
-      <SectionContainer>
-        <Metodos />
       </SectionContainer>
       <SectionContainer>
         <Contacto />

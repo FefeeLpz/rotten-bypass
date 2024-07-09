@@ -2,7 +2,7 @@ import Link from "next/link"
 
 const contacto = () => {
   return (
-    <section id="contacto" className="mt-8 flex flex-col justify-center items-center">
+    <section id="contacto" className="mt-24 flex flex-col justify-center items-center">
         <h2 className="font-bold text-4xl text-white text-center">
             Contacto
         </h2>
