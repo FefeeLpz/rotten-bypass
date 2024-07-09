@@ -75,7 +75,7 @@ const precios = () => {
           </Link>
         </div>
       </div>
-      <div className="ml-44 flex flex-col justify-center items-center max-[1150px]:ml-0">
+      <div className="ml-44 flex flex-col justify-center items-center max-[1150px]:ml-0 max-[1150px]:mt-11">
         <Image 
           src="/rotten.png"
           alt="Foto del Bypas Rotten"
