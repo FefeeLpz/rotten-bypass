@@ -17,13 +17,8 @@ export const navBar = [
     },
     {
         id: 4,
-        title: "Metodos de Pago",
-        link: "#metodos",
-    },
-    {
-        id: 5,
         title: "Contacto",
         link: "#contacto"
-    }
+    },
 
 ]

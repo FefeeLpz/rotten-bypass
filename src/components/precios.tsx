@@ -6,7 +6,7 @@ import { BadgeDollarSign } from "lucide-react"
 
 const precios = () => {
   return (
-    <div className="mt-32 flex max-[1150px]:flex-col  max-[1150px]:items-center ">
+    <div id="precios" className="mt-32 flex max-[1150px]:flex-col  max-[1150px]:items-center ">
       <div className="flex flex-col">
         <div className="flex items-center">
           <h2 className="text-white text-4xl font-bold">
