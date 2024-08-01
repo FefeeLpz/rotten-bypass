@@ -100,7 +100,7 @@ const precios = () => {
             Last Detection: <span className="text-purple-400">Never</span>
           </h2>
           <h2 className="text-white text-sm ml-6">
-            Supported Cheats: <span className="text-purple-400">Skript - TZX</span> 
+            Supported Cheats: <span className="text-purple-400">Skript</span> 
           </h2>
         </div>
       </div>  
